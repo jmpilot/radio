@@ -10,4 +10,4 @@ if "%~1"=="-FIXED_CTRL_C" (
 
 %echo off
 
-python C:\Users\jmpil\workspace\radio\ffmpeg_radio.py %1
+python C:\path\to\ffmpeg_radio.py %1
